@@ -4,7 +4,7 @@ A random photo ios generator application created using Swift and xcode ide.
 # How it works: 
 - When you click on Photo Generator button you will see a new photo and background. 
 
-#Some Examples: 
+# Some Examples: 
 
 <img src="https://user-images.githubusercontent.com/67939160/206314726-6f94d118-1c63-41c1-b1c3-46e41366c9ec.png" width="400" height="650">
 <img src="https://user-images.githubusercontent.com/67939160/206314744-a530b4c5-5825-42d9-b55c-a4ea16055d23.png" width="400" height="650">
