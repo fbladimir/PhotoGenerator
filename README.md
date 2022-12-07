@@ -6,7 +6,7 @@ A random photo ios generator application created using Swift and xcode ide.
 
 #Some Examples: 
 
-<img src="https://user-images.githubusercontent.com/67939160/206314726-6f94d118-1c63-41c1-b1c3-46e41366c9ec.png" width="50" height="80">
+<img src="https://user-images.githubusercontent.com/67939160/206314726-6f94d118-1c63-41c1-b1c3-46e41366c9ec.png" width="150" height="150">
 
 ![Example1](https://user-images.githubusercontent.com/67939160/206314726-6f94d118-1c63-41c1-b1c3-46e41366c9ec.png = 100x100)
 ![example2](https://user-images.githubusercontent.com/67939160/206314744-a530b4c5-5825-42d9-b55c-a4ea16055d23.png)
